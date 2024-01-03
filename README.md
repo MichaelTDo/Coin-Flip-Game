@@ -1,4 +1,4 @@
-Coin Flipping Game
+# Coin Flipping Game
 
 Description:
 This is a simple coin flipping game implemented using Python and Tkinter. The game allows users to guess the outcome of a coin flip (Heads or Tails) and keeps track of their score. The user wins the game if they correctly guess the outcome 10 times.
