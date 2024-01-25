@@ -17,6 +17,7 @@ If you correctly guess the outcome 10 times, a winner popup will appear.
 Requirements
 Python 3.x
 Tkinter (usually included with Python installations)
-File Structure
-coin_flipping_game.py: Main Python script for the game.
-coin_flip_logs.txt: Log file recording each coin flip and user guess.
+
+File Structure:
+- coin_flipping_game.py: Main Python script for the game.
+- coin_flip_logs.txt: Log file recording each coin flip and user guess.
